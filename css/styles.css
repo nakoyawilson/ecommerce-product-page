@@ -128,6 +128,10 @@ ul {
   width: 1rem;
 }
 
+.thumbnails-wrapper {
+  display: none;
+}
+
 .product-details {
   margin: 2.4rem;
 }
@@ -249,7 +253,7 @@ ul {
 }
 
 /* Media Queries */
-@media screen and (min-width: 376px) {
+@media screen and (min-width: 900px) {
   /* Header */
 
   .header {
